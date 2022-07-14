@@ -1,2 +1,2 @@
-# diario-de-estudos
-Um diário de estudos
+# Diário de estudos :notebook:
+### Olá, bem vindo ao meu diário de estudos.
